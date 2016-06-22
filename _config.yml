@@ -5,8 +5,8 @@ locale: en_US
 description: Blog post about stimulus, emotions and response
 # logo: site-logo.png
 search: true
-# url: //stimulus.cc.github.io
-url: http://localhost:4000
+url: //lpantano.github.io/stimulus.cc
+# url: http://localhost:4000
 # Jekyll configuration
 
 permalink:   /:categories/:title/

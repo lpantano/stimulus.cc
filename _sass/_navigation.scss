@@ -97,3 +97,8 @@
     display: none;
   }
 }
+
+.en:lang(en), .es:lang(es){
+    font-weight: bold;
+    color: orange;
+}

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Latest Posts
+title: Ultimos Posts
 excerpt: "A simple and clean responsive Jekyll theme for words and photos."
 search_omit: true
 ref: index
-lang: en
+lang: es
 trans:
-    es
+    en
 ---
 
 Coming soon ...

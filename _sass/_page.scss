@@ -309,3 +309,21 @@ span + .entry-title {
 		vertical-align: middle;
 	}
 }
+
+div.curiosity-header {
+	font-style: italic;
+	font-weight: bold;
+}
+
+div.curiosity-content {
+	 color: #e0e0e0;
+     # border: solid 1px #0d4261;
+     background-color: #0d4261;
+     -moz-border-radius: 6px;
+     -webkit-border-radius: 6px;
+     border-radius: 6px;
+     padding: 14px 20px;
+     mc-auto-number-format: '{b}Note: {/b}';
+     display: none;
+
+}

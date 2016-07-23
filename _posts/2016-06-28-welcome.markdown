@@ -1,0 +1,51 @@
+---
+layout: post
+title: Bienvenido
+date: 2016-06-28T18:45:19-04:00
+ref: welcome
+lang: en
+author: lorena_pantano
+---
+
+Welcome!
+
+Words: < 400
+
+I thought that a good beginning is to talk about the 3 words I put below the title of this blog. Then, got for that!
+
+[Stimulus](https://en.wiktionary.org/wiki/stimulus): from Latin, and in Spanish is the same! 2x1. It can be any thing with an impact or influence in a system. For instance, a worldwide stimulus (well, at least for me): pictures of cats! Right?
+
+[Emotion](http://www.theatlantic.com/health/archive/2015/02/hard-feelings-sciences-struggle-to-define-emotions/385711/): from French, that comes from Latin, at the end everything comes from the same place. It defines as internal state and/or involuntary physiological response to an object or situation.
+
+<div class="curiosity-header"><a href="javascript:toggleDiv('myContent');" >Curiosity</a> 
+<div id="myContent" class="curiosity-content">
+The word didn’t exist (in English) until XVII century. And, even today, there are problems to get a scientific definition for this work.
+</div></div>
+
+It is difficult to define this word because the study of the brain it affects the way we find solutions to the problem. For instance, the fact that the Earth is round, and what we think about that, it doesn’t affect that the Earth is round, it would be round no matters what. Although some people say the opposite, [yet today](http://blackbag.gawker.com/the-earth-is-flat-explained-1755002534).
+
+<div class="curiosity-header"><a href="javascript:toggleDiv('myContent2');" >Curiosity</a> 
+<div id="myContent2" class="curiosity-content">
+The amygdale is considered the fear center. In 2013, a woman without amygdale [felt fear] (http://www.nature.com/news/researchers-scare-fearless-patients-1.12350) even without that fear center. The only way to support that, it is accepting that fear doesn’t come only from that region, meaning that the relationship between brain and function is not an easy task to establish.
+</div></div>
+
+__Response__: It is defined as reaction to something. In this case, I want to direct it as a reaction to an emotion. For instance, to feel an emotion can have as consequence a series of actions with more or less importance.
+
+<div class="curiosity-header"><a href="javascript:toggleDiv('myContent3');" >Curiosity</a> 
+<div id="myContent3" class="curiosity-content">
+After Spain won the soccer world cup, some time ago …, many people decided to celebrate it in a special way that ended up with a [baby, 9 months after](http://www.elmundo.es/cronica/2014/06/08/5393088ae2704e525f8b457b.html). In this case, we can define: stimulus (win the final), emotion (happiness) and response (baby).
+</div></div>
+
+<div class="curiosity-header"><a href="javascript:toggleDiv('myContent4');" >Curiosity</a> 
+<div id="myContent4" class="curiosity-content">
+I know is quite a stereotype to talk about soccer when talking about Spain, there are many other things, I know. I don’t care a lot about soccer, but there is a majority of people who like a lot.
+</div></div>
+
+And the idea is to talk about all this, and related curiosities, facts and science to help to understand how we behave and/or relate in society. 
+
+"Don’t fight again an emotion, understand it"
+
+
+
+
+ 

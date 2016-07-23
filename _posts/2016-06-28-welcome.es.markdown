@@ -1,0 +1,49 @@
+---
+layout: post
+title: Bienvenido
+date: 2016-06-28T18:45:19-04:00
+ref: welcome
+lang: es
+author: lorena_pantano
+---
+
+Bienvenido!
+
+Palabras: < 400
+
+He pensado que un buen primer post sería definir las tres palabras que encabezan el título de este blog. Así que allá vamos!
+
+[Stimulus](https://en.wiktionary.org/wiki/stimulus): viene del Latín, y en Ingles se escribe igual, bien!, 2x1. Puede ser cualquier cosa que tenga un impacto o influencia en un sistema. Por ejemplo, algo mundialmente conocido (por mí …) : fotos o videos de gatos =).
+
+[Emotion](http://www.theatlantic.com/health/archive/2015/02/hard-feelings-sciences-struggle-to-define-emotions/385711/): viene del francés, que viene del Latín. Al final, todo del mismo sitio. Se define como un estado interno mental y/o una respuesta fisiológica involuntaria a un objeto o situación. 
+
+<div class="curiosity-header"><a href="javascript:toggleDiv('myContent');" >Curiosidad</a>
+<div id="myContent" class="curiosity-content">
+La palabra no existió (en ingles) hasta el siglo XVII, y aun hay problemas para definir esta palabra científicamente. 
+</div> </div>
+
+Esto se debe a que las ideas de cómo funciona el cerebro afecta a como se estudio. Por ejemplo, la tierra es redonda, y lo que pensemos sobre ello no afecta (Aunque el ser humano ha demostrado ser capaz de apoyar que la tierra es plana hoy en día [-de todo tiene que haber –](http://blackbag.gawker.com/the-earth-is-flat-explained-1755002534).
+
+<div class="curiosity-header"><a href="javascript:toggleDiv('myContent2');" >Curiosidad</a>
+<div id="myContent2" class="curiosity-content">
+La amígdala se considera el centro del miedo. En 2013, una mujer con la amígdala calcificada [sintió miedo] (http://www.nature.com/news/researchers-scare-fearless-patients-1.12350) a pesar de no tener ese centro funcional. Esto demuestra que no es tan fácil establecer una relación entre región del cerebro y función, ya que siempre se ha pensado que la amígdala era la única responsable.
+</div> </div>
+
+__Response__: se define como reacción a algo. En este caso, lo quiero enfocar a una respuesta de una emoción. Por ejemplo,  sentir una emoción puede tener como consecuencia una serie de acciones de diferente importancia, desde algo ínfimo, hasta algo que puede cambiar el resto de tu vida.
+
+<div class="curiosity-header"><a href="javascript:toggleDiv('myContent3');" >Curiosidad</a> 
+<div id="myContent3" class="curiosity-content">
+Después de que España ganara el mundial de futbol, muchos decidieron celebrarlo de una manera especial que acabo en un [bebe a los 9 meses] (http://www.elmundo.es/cronica/2014/06/08/5393088ae2704e525f8b457b.html). Podemos definir como: stimulus (ganar el mundial), emotion (alegría), response (bebé).
+</div> </div>
+
+<div class="curiosity-header"><a href="javascript:toggleDiv('myContent4');" >Curiosidad</a>
+<div id="myContent4" class="curiosity-content">
+Se que es un tópico hablar de futbol en España, como si no hubiera otra cosa, a mi realmente no es que me guste especialmente, pero parece un gran estimulo para mucha gente …
+</div> </div>
+
+Y la idea es hablar de todo esto, además de curiosidades, hechos y divulgación científica con el objetivo de ayudar a entender como nos comportamos o/y relacionamos en sociedad. 
+
+"No luches contra una emoción, entiéndela."
+
+
+ 

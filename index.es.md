@@ -5,11 +5,8 @@ excerpt: "A short blog about human mind."
 search_omit: true
 ref: index
 lang: es
-trans:
-    en
 ---
 
-Coming soon ...
 
 <ul class="post-list">
 {% assign posts=site.posts | where:"lang", page.lang %}

@@ -1,0 +1,33 @@
+---
+layout: post
+title: Enfado I
+date: 2016-11-20T16:44:58-05:00
+ref: angeri
+lang: es
+author: lorena_pantano
+---
+
+Enfado/Ira
+
+Enfado o ira es una emoción que muestra una fuerte molestia y alteración personal debido a una provocación, daño o amenaza. La causa más simple es cuando alguien interfiere con lo que estamos haciendo. Es mayor cuando es [intencionado](https://en.wikipedia.org/wiki/Anger#cite_note-Anger_pg_290-25), y cuando la persona afectada aun cree que puede cambiar lo que esta pasando. 
+
+La frustración es una causa de enfado también; podemos sentirla cuando fallamos en nuestros objetivos o nuestras expectativas no ocurren.
+
+<div class="curiosity-header"><a href="javascript:toggleDiv('myContent');" >Curiosity</a> 
+<div id="myContent" class="curiosity-content">
+[El método ABCD](http://lifehacker.com/use-the-abcd-method-to-deal-with-frustration-1695919429) puede ayudar a enfrentarse a la frustración. Si paramos a tiempo, podemos evitar el enfado y todos sus efectos negativos. Esta enfocado a cambiar nuestras expectativas de las situaciones. Por ejemplo, enfadarse por el trafico no tiene mucho sentido, porque siempre será así, y no depende de uno mismo. Todas las personas tienen que soportarlo también, y esta idea debería ser suficiente para reducir la frustración. 
+</div></div>
+
+Una de las consecuencias mas peligrosas de enfadarse es que ella misma genera enfado en los demás, creando una circulo infinito que es difícil de controlar.
+
+Al contrario de otras emociones negativas como tristeza o miedo, personas enfadadas pueden llegar a mostrar [sesgo de correspondencia](http://gpi.sagepub.com/content/13/6/725.abstract): la tendencia de culpar a la persona en sí como causa de una situación más que a la misma situación en sí. Se tiende a creer más en los estereotipos, y tomar menos atención a los detalles. En otras emociones negativa esto no ocurre, de hecho se promueve el pensamiento analítico. 
+
+El enfado tiene algunas características relacionadas a emociones positivas, a pesar de ser considerada una emoción negativa. Esto es motivo por lo que puede ser muy interesante de estudiar para psicólogos. Parece que regiones del cerebro relacionadas a emociones positivas también se activan en este caso. Por ejemplo, hace ser más optimistas sobre el futuro, donde los objetivos parecen mas fácil de conseguir, y hay menos riesgos en el camino. Además, parece que el enfado hace querer mas cosas para uno mismo. Esto podría tener un cierto sentido a [nivel evolutivo](https://www.sciencedaily.com/releases/2010/11/101101151730.htm) cuando incluso alimentarse era complicado. Por ejemplo, conseguir comida cuando uno está hambriento puede producir enfado (creo que esto lo sabemos todos) y enfadarse puede ayudar a conseguir comida para paliar esa sensación y sobrevivir. 
+
+
+<div class="curiosity-header"><a href="javascript:toggleDiv('myContent2');" >Curiosity</a> 
+<div id="myContent2" class="curiosity-content">
+[En un estudio](https://en.wikipedia.org/wiki/Anger#cite_note-29), individuos enfadados parecían tener menos problemas de salud de corazón (esto lo dudo), y mas probabilidad de tener éxito en el trabajo comparado con personas que sentían miedo 
+</div></div>
+
+En definitiva, es algo útil, pero a veces tiene más consecuencias negativas que positivas.

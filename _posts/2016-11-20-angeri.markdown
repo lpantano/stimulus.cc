@@ -1,0 +1,34 @@
+---
+layout: post
+title: Anger I
+date: 2016-11-20T16:44:58-05:00
+ref: angeri
+lang: en
+author: lorena_pantano
+---
+
+Anger/Wrath
+
+Anger or wrath is an emotion that involves a strong uncomfortable and emotional response to a perceived provocation, hurt or threat. The simplest cause of anger is when someone is interfering with what we are doing (emotion revealed). It is stronger when this interference is [deliberate](https://en.wikipedia.org/wiki/Anger#cite_note-Anger_pg_290-25), and when the person thinks he/she can still influence the situation or cope with it.
+Frustration is a cause of anger as well; we can feel frustration when we fail in our objectives, in our idea of what should happen. 
+
+<div class="curiosity-header"><a href="javascript:toggleDiv('myContent');" >Curiosity</a> 
+<div id="myContent" class="curiosity-content">
+[ABCD method](http://lifehacker.com/use-the-abcd-method-to-deal-with-frustration-1695919429) can help to deal with frustration. If you stop frustration in time, you will avoid anger and all the negative effect. It’s mainly focused on the expectation we have about one situation. Like, don’t get angry because of the traffic, it will be always there, and it will be always inconvenient, and all people have to live with it. Just assume that, and frustration will disappear.
+</div></div>
+
+One of the most dangerous consequences of anger is that causes anger in other people creating an infinite loop that needs a lot of control to break.
+
+Unlike other negative emotions like sadness and fear, angry people are more likely to demonstrate correspondence bias: the tendency to blame a person's behavior due entirely to the person’s personality than due to their circumstances. They tend to rely more on stereotypes, and pay less attention to details and more attention to the superficial things. In this regard, anger is unlike other "negative" emotions such as sadness and fear, which promote analytical thinking.
+
+In society, anger and fear makes people think in more [negative and prejudiced](http://gpi.sagepub.com/content/13/6/725.abstract) terms about others. Anger makes people less trusting, and slower to attribute good qualities to people and generate aggression toward them easier.
+
+Anger has some features related to positive emotions, even being considering negative. That’s the reason is so interested for psychologists. The reason has positive feature is because activate a region in the left side of the brain that also is active when positive emotion happens. For instance, anger makes people think more optimistically about themselves. Dangers seem smaller, actions seem less risky, success seems easier, and unfortunate events seem unlikely. Angry people are more likely to make risky decisions, and make more optimistic risk assessments. Interestingly, anger makes people to want things. [One explanation](https://www.sciencedaily.com/releases/2010/11/101101151730.htm) for this could be evolution. "If the food does not make you angry or doesn't produce aggression in your system, you may starve and lose the battle".
+
+<div class="curiosity-header"><a href="javascript:toggleDiv('myContent2');" >Curiosity</a> 
+<div id="myContent2" class="curiosity-content">
+In one study, [test subjects](https://en.wikipedia.org/wiki/Anger#cite_note-29) primed to feel angry felt less likely to suffer heart disease, and more likely to receive a pay raise, compared to fearful people.
+</div></div>
+
+
+It is an useful feeling but many times has more negative than positive consequences.

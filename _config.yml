@@ -21,7 +21,7 @@ sass:
   sass_dir: _sass
   style: compressed
 
-gems: [jekyll-gist, jekyll-sitemap]
+plugins: [jekyll-gist, jekyll-sitemap]
 
 exclude_from_localizations: ["javascript", "images", "css"]
 
